@@ -88,7 +88,7 @@ Wi-Fi is a wireless network technology that allows devices such as computers (la
 **Disadvantages**
 
 - **Range**: A Wi-Fi signal reaches a limited range, which may not cover your entire home or office.
-- **Security**: Because wireless signals travel through the air, they can be intercepted. Using [encryption technology](https://www.lifewire.com/introduction-to-network-encryption-817993) minimizes the danger.
+- **Security**: Because wireless signals travel through the air, they can be intercepted. Using encryption technology minimizes the danger.
 - **Disruption**: Large metal objects, such as a refrigerator, can block a Wi-Fi signal in your home. A microwave oven can disrupt the signal.
 
 ### 3. Another protocols
